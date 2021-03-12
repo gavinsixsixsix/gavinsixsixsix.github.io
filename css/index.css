@@ -725,6 +725,7 @@ kbd {
   width: 100%;
   font-size: 18px;
   background-color: #2d2e30;
+  /* background: url(/https://liuyib.github.io/assets/banner/1.jpg/banner/1.jpg) no-repeat center/cover; */
   height: 80vh;
 }
 .header-inner--bgcolor {
